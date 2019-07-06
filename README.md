@@ -1,6 +1,7 @@
 # Bandwidth Problem
 The bandwidth problem is numbering the vertices of a given graph G
-such that the maximum diference between the numbers of adjacent vertices is minimal. This is known to be NP-complete and only few special cases of this problem are known to be efficient.
+such that the maximum diference between the numbers of adjacent vertices is minimal. This is known to be NP-complete and only few special cases of this problem are known to be efficient. 
+This program uses backtracking to solve this problem.
 
 ## Data
 Each text file has information about graph. </br>
@@ -21,5 +22,6 @@ Last part shows the numbers of vertices that are adjacent.
 5    11
 6    12
 ```
+
 ## How To Run
 Use Visual Studio to run this program
